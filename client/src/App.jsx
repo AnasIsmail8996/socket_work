@@ -30,6 +30,9 @@ function App() {
     setMessage("");
   };
 
+
+  console.log("Anas Ismail");
+  
   return (
     <div style={{ padding: 20 }}>
       <h2>Socket.IO Chat</h2>
